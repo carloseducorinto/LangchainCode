@@ -1,3 +1,1 @@
 print('Tomorrow')
-
-print('Hello')
